@@ -1,0 +1,14 @@
+['Add_to_Cart_Browsing_Yes'] --> ['Add_to_Cart_Browsing_Yes']; Kulczynski = 0.7039
+['Add_to_Cart_Browsing_Yes', 'Search_Result_Exploration_Multiple pages'] --> ['Add_to_Cart_Browsing_Yes', 'Search_Result_Exploration_Multiple pages']; Kulczynski = 0.6834
+['Gender_Female'] --> ['Gender_Female']; Kulczynski = 0.6833
+['Review_Left_Yes'] --> ['Review_Left_Yes']; Kulczynski = 0.6802
+['Review_Helpfulness_Yes', 'Search_Result_Exploration_Multiple pages'] --> ['Review_Helpfulness_Yes', 'Search_Result_Exploration_Multiple pages']; Kulczynski = 0.6771
+['Customer_Reviews_Importance_1'] --> ['Customer_Reviews_Importance_1']; Kulczynski = 0.6749
+['age_20-29'] --> ['age_20-29']; Kulczynski = 0.6641
+['Review_Helpfulness_Yes'] --> ['Review_Helpfulness_Yes']; Kulczynski = 0.652
+['Cart_Completion_Frequency_Sometimes'] --> ['Cart_Completion_Frequency_Sometimes']; Kulczynski = 0.6515
+['Add_to_Cart_Browsing_Yes'] --> ['Add_to_Cart_Browsing_Yes']; Kulczynski = 0.6295
+['Product_Search_Method_Keyword'] --> ['Product_Search_Method_Keyword']; Kulczynski = 0.623
+['Browsing_Frequency_Few times a week'] --> ['Browsing_Frequency_Few times a week']; Kulczynski = 0.6206
+['Recommendation_Helpfulness_Sometimes'] --> ['Recommendation_Helpfulness_Sometimes']; Kulczynski = 0.6181
+['Cart_Abandonment_Factors_Found a better price elsewhere'] --> ['Cart_Abandonment_Factors_Found a better price elsewhere']; Kulczynski = 0.6158
